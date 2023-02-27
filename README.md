@@ -1,6 +1,7 @@
 ![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fvectors%2Fsoftware-engineering-banner-and-icons-vector-id636526232&f=1&nofb=1&ipt=82ec441b67efeeb436077118732eb34aaecab7b6c68c80bc2a55eed0aa5a297f&ipo=images)
 <h1 align="center">Hi 👋, I'm Nando Nyata Pasti</h1>
 <h3 align="center">A passionate fullStack developer from Indonesia</h3>
+<img align="right" alt="coding" width="250" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcamo.githubusercontent.com%2Fbfe24c7f7db9b843e8602869974fe2d022441bb5583749ae2f84a85983fa52d4%2F68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966&f=1&nofb=1&ipt=d9ce6e4e8233ca8a8320c6d69861d2a4e4a896e1da61aa4d23ee0893fd8a23a1&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandonyata&label=Profile%20views&color=0e75b6&style=flat" alt="nandonyata" /> </p>
 
