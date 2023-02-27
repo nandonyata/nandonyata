@@ -1,3 +1,4 @@
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fvectors%2Fsoftware-engineering-banner-and-icons-vector-id636526232&f=1&nofb=1&ipt=82ec441b67efeeb436077118732eb34aaecab7b6c68c80bc2a55eed0aa5a297f&ipo=images)
 <h1 align="center">Hi 👋, I'm Nando Nyata Pasti</h1>
 <h3 align="center">A passionate fullStack developer from Indonesia</h3>
 
