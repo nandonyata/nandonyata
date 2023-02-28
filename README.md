@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/05/f5/20/05f520828802c682e70569e4198bd87d.jpg)
 <h1 align="center">Hi 👋, I'm Nando Nyata Pasti</h1>
 <h3 align="center">A passionate fullStack developer from Indonesia</h3>
-<img align="right" alt="coding" width="250" src="https://media.tenor.com/UnbAarwP6q8AAAAM/funny-anime.gif">
+<img align="right" alt="coding" width="250" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FZhKMg4_yCTgAAAAC%2Fsurprised-pikachu.gif&f=1&nofb=1&ipt=1401d0b5c122d88765a0bf09e540568abc815896f8e831f72633958b1c63f5aa&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandonyata&label=Profile%20views&color=0e75b6&style=flat" alt="nandonyata" /> </p>
 
