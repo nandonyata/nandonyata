@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp4813075.jpg)
+![MasterHead](https://i.pinimg.com/originals/05/f5/20/05f520828802c682e70569e4198bd87d.jpg)
 <h1 align="center">Hi 👋, I'm Nando Nyata Pasti</h1>
 <h3 align="center">A passionate fullStack developer from Indonesia</h3>
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/UZJd1pjj4NMAAAAM/surprised-pikachu.gif">
