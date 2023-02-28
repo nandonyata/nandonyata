@@ -1,7 +1,7 @@
-![MasterHead](https://c4.wallpaperflare.com/wallpaper/189/854/571/anime-landscape-anime-art-painting-sea-wallpaper-preview.jpg)
+![MasterHead](https://i.pinimg.com/originals/05/f5/20/05f520828802c682e70569e4198bd87d.jpg)
 <h1 align="center">Hi 👋, I'm Nando Nyata Pasti</h1>
 <h3 align="center">A passionate fullStack developer from Indonesia</h3>
-<img align="right" alt="coding" width="250" src="https://media.tenor.com/UZJd1pjj4NMAAAAM/surprised-pikachu.gif">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/UnbAarwP6q8AAAAM/funny-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandonyata&label=Profile%20views&color=0e75b6&style=flat" alt="nandonyata" /> </p>
 
