@@ -1,4 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/05/f5/20/05f520828802c682e70569e4198bd87d.jpg)
+<!-- ![MasterHead](https://i.pinimg.com/originals/05/f5/20/05f520828802c682e70569e4198bd87d.jpg) -->
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FYZJgSAOkS1GJtUhmonX3d460Dz8%3D%2F0x51%3A500x332%2F1600x900%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F36992002%2Ftumblr_lmwsamrrxT1qagx30.0.0.gif&f=1&nofb=1&ipt=65182be2d32460c80379b70c9e775a1bbe5bf6ff1514a412a589dc5d8857f097&ipo=images)
 <h1 align="center">Hi 👋, I'm Nando Nyata Pasti</h1>
 <h3 align="center">A passionate fullStack developer from Indonesia</h3>
 <img align="right" alt="coding" width="250" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FZhKMg4_yCTgAAAAC%2Fsurprised-pikachu.gif&f=1&nofb=1&ipt=1401d0b5c122d88765a0bf09e540568abc815896f8e831f72633958b1c63f5aa&ipo=images">
