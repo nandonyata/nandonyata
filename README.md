@@ -1,4 +1,4 @@
-![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fvectors%2Fsoftware-engineering-banner-and-icons-vector-id636526232&f=1&nofb=1&ipt=82ec441b67efeeb436077118732eb34aaecab7b6c68c80bc2a55eed0aa5a297f&ipo=images)
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.launchbox-app.com%2Fbb4f8246-50fe-441f-9d79-f1e3edeace92.jpg&f=1&nofb=1&ipt=32b34a8d04544618ab86f692e7a18a593c290c64ca8cc785af4a6dc2ad206eea&ipo=images)
 <h1 align="center">Hi 👋, I'm Nando Nyata Pasti</h1>
 <h3 align="center">A passionate fullStack developer from Indonesia</h3>
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/UZJd1pjj4NMAAAAM/surprised-pikachu.gif">
