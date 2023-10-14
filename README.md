@@ -1,13 +1,13 @@
-# Hi there :wave:
-
 <!--
+# Hello there :wave:
+
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
--->
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
+-->
 
 ## About me
 
@@ -19,12 +19,12 @@ I'm still navigating the intricate landscape of backend development, soaking up 
 ## Things I am passionate about
 
 - Coding :robot:
-- Sleeping hehe 😴
 - Gaming 🎮
+- Sleeping hehe 😴
 
-## Get in touch 😸
+## Get in touch
 
-- Your future buddy to learn and discuss backend related things and tech in general on [Insta](https://www.instagram.com/pewpew02_).
+- Your future buddy to learn and discuss backend related things and tech in general on [Instagram](https://www.instagram.com/pewpew02_).
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@nandonp02) (there's nothing yet 😹).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/nando-nyata-pasti-092133247/)
 - And of course GitHub you're already on.
